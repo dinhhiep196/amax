@@ -1,0 +1,15 @@
+p{
+    border-bottom: 0.5rem;
+}
+.single_post_text p:not(:first-of-type) {
+    margin-top: 0;
+}
+.single_post_text p {
+    font-size: 16px;
+     font-weight: normal;
+     line-height: normal;
+}
+.single_post_text img{
+    max-width: 100%;
+    height: auto;
+}
